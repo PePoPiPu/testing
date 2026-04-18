@@ -1,7 +1,3 @@
 hola que tal esto es un test
 hola que tal esto es otro test
-hostias que me equivocado
-ERROR
-ERROR
-ERROR
-ERROR
+hola que tal esto es un buen código
